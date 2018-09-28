@@ -1,4 +1,4 @@
-package com.littlehu.test6;
+package com.littlehu.test06;
 
 public class Director {
 	Builder mBuilder=null;
